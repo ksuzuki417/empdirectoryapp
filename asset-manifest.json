@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/empdirectoryapp/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/empdirectoryapp/static/js/main.b8ea86b0.chunk.js",
+    "main.js.map": "/empdirectoryapp/static/js/main.b8ea86b0.chunk.js.map",
+    "runtime-main.js": "/empdirectoryapp/static/js/runtime-main.43ea2a1a.js",
+    "runtime-main.js.map": "/empdirectoryapp/static/js/runtime-main.43ea2a1a.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/empdirectoryapp/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.bf832f04.chunk.js": "/empdirectoryapp/static/js/2.bf832f04.chunk.js",
+    "static/js/2.bf832f04.chunk.js.map": "/empdirectoryapp/static/js/2.bf832f04.chunk.js.map",
+    "index.html": "/empdirectoryapp/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/empdirectoryapp/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/empdirectoryapp/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.bf832f04.chunk.js.LICENSE.txt": "/empdirectoryapp/static/js/2.bf832f04.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43ea2a1a.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.bf832f04.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b8ea86b0.chunk.js"
+  ]
+}
